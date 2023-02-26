@@ -1,0 +1,142 @@
+2020-03-08 10:32 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:32 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:32 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:32 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:32 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 10:34 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:34 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:34 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:34 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:34 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 10:35 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:35 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:35 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:35 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:35 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 10:36 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:36 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:36 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:36 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:36 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:38 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:39 [DEBUG] SessionCaptchaStrategyImpl isValidCaptcha     49 - Captcha Map doesn't contain user's captcha value
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet checkCaptcha    112 - Captcha isn't valid. Saving parameters
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet saveParameters    135 - Request parameters has been saved
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet forwardToRegister    106 - Making doGet() request to /registerUser
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doGet     43 - RegisterUserServlet doGet() start
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doGet     50 - RegisterUserServlet doGet() end
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     60 - Couldn't register user
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet saveParameters    135 - Request parameters has been saved
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet forwardToRegister    106 - Making doGet() request to /registerUser
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doGet     43 - RegisterUserServlet doGet() start
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doGet     50 - RegisterUserServlet doGet() end
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 10:39 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 11:18 [DEBUG] SessionCaptchaStrategyImpl isValidCaptcha     49 - Captcha Map doesn't contain user's captcha value
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet checkCaptcha    112 - Captcha isn't valid. Saving parameters
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet saveParameters    135 - Request parameters has been saved
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet forwardToRegister    106 - Making doGet() request to /registerUser
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doGet     43 - RegisterUserServlet doGet() start
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doGet     50 - RegisterUserServlet doGet() end
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     60 - Couldn't register user
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet saveParameters    135 - Request parameters has been saved
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet forwardToRegister    106 - Making doGet() request to /registerUser
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doGet     43 - RegisterUserServlet doGet() start
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doGet     50 - RegisterUserServlet doGet() end
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 11:18 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end
+2020-03-08 11:42 [DEBUG]           ContextListener getDataSource     46 - Returning dataSource
+2020-03-08 11:42 [DEBUG]           ContextListener launchCleaner     53 - Initialized executor service
+2020-03-08 11:42 [DEBUG]           ContextListener launchCleaner     56 - Launched cleaner for captchas map
+2020-03-08 11:42 [DEBUG]       RegisterUserServlet doGet     43 - RegisterUserServlet doGet() start
+2020-03-08 11:42 [DEBUG] CookieCaptchaStrategyImpl initCaptchaValue     27 - Put new captcha to map
+2020-03-08 11:42 [DEBUG] CookieCaptchaStrategyImpl initCaptchaValue     31 - Captcha has been put to cookie
+2020-03-08 11:42 [DEBUG]       RegisterUserServlet doGet     50 - RegisterUserServlet doGet() end
+2020-03-08 11:42 [DEBUG]            CaptchaServlet doGet     25 - GetCaptchaServlet doGet() start
+2020-03-08 11:42 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     39 - Found captcha value in cookie
+2020-03-08 11:42 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     48 - Created captcha with value 36925
+2020-03-08 11:42 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     52 - Returning created captcha
+2020-03-08 11:42 [DEBUG]            CaptchaServlet doGet     28 - GetCaptchaServlet doGet() end
+2020-03-08 11:43 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 11:43 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 11:43 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 11:44 [DEBUG]           ContextListener getDataSource     46 - Returning dataSource
+2020-03-08 11:44 [DEBUG]           ContextListener launchCleaner     53 - Initialized executor service
+2020-03-08 11:44 [DEBUG]           ContextListener launchCleaner     56 - Launched cleaner for captchas map
+2020-03-08 11:45 [DEBUG]           ContextListener getDataSource     46 - Returning dataSource
+2020-03-08 11:45 [DEBUG]           ContextListener launchCleaner     53 - Initialized executor service
+2020-03-08 11:45 [DEBUG]           ContextListener launchCleaner     56 - Launched cleaner for captchas map
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet doGet     43 - RegisterUserServlet doGet() start
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl initCaptchaValue     27 - Put new captcha to map
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl initCaptchaValue     31 - Captcha has been put to cookie
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet doGet     50 - RegisterUserServlet doGet() end
+2020-03-08 11:45 [DEBUG]            CaptchaServlet doGet     25 - GetCaptchaServlet doGet() start
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     39 - Found captcha value in cookie
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     48 - Created captcha with value 44392
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     52 - Returning created captcha
+2020-03-08 11:45 [DEBUG]            CaptchaServlet doGet     28 - GetCaptchaServlet doGet() end
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet doGet     43 - RegisterUserServlet doGet() start
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl initCaptchaValue     27 - Put new captcha to map
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl initCaptchaValue     31 - Captcha has been put to cookie
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet doGet     50 - RegisterUserServlet doGet() end
+2020-03-08 11:45 [DEBUG]            CaptchaServlet doGet     25 - GetCaptchaServlet doGet() start
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     39 - Found captcha value in cookie
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     48 - Created captcha with value 50956
+2020-03-08 11:45 [DEBUG] CookieCaptchaStrategyImpl writeValueToCaptcha     52 - Returning created captcha
+2020-03-08 11:45 [DEBUG]            CaptchaServlet doGet     28 - GetCaptchaServlet doGet() end
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet doPost     54 - RegisterUserServlet doPost() start
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet createUserDTO    146 - Created UserDTO
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet checkCaptcha    117 - Captcha checked. Returning true
+2020-03-08 11:45 [DEBUG]           UserServiceImpl registerUser     33 - started
+2020-03-08 11:45 [DEBUG]                   UserDAO checkUserExists     56 - started
+2020-03-08 11:45 [DEBUG]                   UserDAO checkUserExists     64 - returing ResultSet
+2020-03-08 11:45 [DEBUG]           UserServiceImpl registerUser     35 - User values are unique
+2020-03-08 11:45 [DEBUG]                   UserDAO addUser     69 - started
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet doPost     67 - User register done successfully. Writing userState to context.
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet writePicture     83 - Found picture in request. Saving.
+2020-03-08 11:45 [DEBUG]       RegisterUserServlet doPost     75 - RegisterUserServlet doPost() end

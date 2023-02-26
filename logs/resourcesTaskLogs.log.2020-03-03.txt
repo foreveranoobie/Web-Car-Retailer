@@ -1,0 +1,724 @@
+2020-03-03 12:34 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 12:34 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 12:34 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 12:34 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 12:34 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 12:35 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 12:35 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 12:35 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 12:35 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 12:35 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 12:54 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 12:54 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 12:54 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 12:54 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 12:54 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 12:55 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 12:55 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 12:55 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 12:55 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 12:55 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 13:02 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 13:02 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 13:02 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 13:02 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 13:02 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 13:03 [DEBUG]       RegisterUserServletdoPost     41 - RegisterUserServlet doPost() start
+2020-03-03 13:03 [DEBUG]       RegisterUserServletcreateUserDTO    140 - Created UserDTO
+2020-03-03 13:03 [DEBUG]       RegisterUserServletcheckCaptcha    108 - Captcha checked. Returning true
+2020-03-03 13:03 [DEBUG]           UserServiceImplregisterUser     35 - started
+2020-03-03 13:03 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 13:03 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 13:03 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 13:03 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 13:03 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 13:03 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 13:03 [DEBUG]           UserServiceImplregisterUser     40 - added User. Returning true
+2020-03-03 13:03 [DEBUG]       RegisterUserServletdoPost     65 - RegisterUserServlet doPost() end
+2020-03-03 13:04 [DEBUG]           UserServiceImplloginUser     20 - started
+2020-03-03 13:04 [DEBUG]           UserServiceImplloginUser     24 - User exists. Returning true
+2020-03-03 13:24 [DEBUG]           UserServiceImplloginUser     20 - started
+2020-03-03 13:24 [DEBUG]           UserServiceImplloginUser     24 - User exists. Returning true
+2020-03-03 13:25 [DEBUG]           UserServiceImplloginUser     20 - started
+2020-03-03 13:25 [DEBUG]           UserServiceImplloginUser     24 - User exists. Returning true
+2020-03-03 13:25 [DEBUG]           UserServiceImplloginUser     20 - started
+2020-03-03 13:25 [DEBUG]           UserServiceImplloginUser     24 - User exists. Returning true
+2020-03-03 13:27 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 13:27 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 13:27 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 13:27 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 13:27 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 13:27 [DEBUG]           UserServiceImplloginUser     20 - started
+2020-03-03 13:27 [DEBUG]           UserServiceImplloginUser     24 - User exists. Returning true
+2020-03-03 13:31 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 13:31 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 13:31 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 13:31 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 13:31 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 13:32 [DEBUG]           UserServiceImplloginUser     20 - started
+2020-03-03 13:32 [DEBUG]           UserServiceImplloginUser     24 - User exists. Returning true
+2020-03-03 13:34 [DEBUG]           UserServiceImplloginUser     20 - started
+2020-03-03 13:34 [DEBUG]           UserServiceImplloginUser     24 - User exists. Returning true
+2020-03-03 13:43 [DEBUG]           UserServiceImplloginUser     20 - started
+2020-03-03 13:43 [DEBUG]           UserServiceImplloginUser     24 - User exists. Returning true
+2020-03-03 13:45 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:45 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 13:46 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:46 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:47 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:47 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:47 [DEBUG]       RegisterUserServletforwardToLogin     43 - called
+2020-03-03 13:47 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 13:47 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 13:48 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:48 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:48 [DEBUG]       RegisterUserServletforwardToLogin     43 - called
+2020-03-03 13:48 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 13:48 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 13:48 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:48 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:48 [DEBUG]       RegisterUserServletforwardToLogin     43 - called
+2020-03-03 13:53 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:53 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:53 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:54 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:54 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:54 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:54 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:54 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:54 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:55 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:55 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:55 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:56 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:56 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:56 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:56 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:56 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:56 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:56 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:56 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:56 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:57 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:57 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:57 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:57 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 13:57 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 13:57 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 13:57 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 13:57 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 13:57 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:57 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:57 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:59 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:59 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:59 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:59 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 13:59 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 13:59 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:00 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:00 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:00 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:00 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:00 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:00 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:00 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:00 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:00 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:00 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:00 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:00 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:00 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:00 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:01 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:01 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:01 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:01 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:01 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:01 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:04 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:04 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:04 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:05 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:05 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:05 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:06 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:06 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:06 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:06 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:06 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:06 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:06 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:06 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:06 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:06 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:06 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:07 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 14:07 [DEBUG]           UserServiceImplloginUser     32 - User doesn't exist. Returning false
+2020-03-03 14:07 [DEBUG]       RegisterUserServletforwardToLogin     44 - called
+2020-03-03 14:14 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:14 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:14 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:14 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:14 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:14 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:14 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:14 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:14 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:14 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:15 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:15 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:15 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:15 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:15 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:16 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:16 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:16 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:16 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:16 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:17 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:17 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:17 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:17 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:17 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:23 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:23 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:23 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:23 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:23 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:23 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:23 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:23 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:23 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:23 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:24 [DEBUG]       RegisterUserServletdoGet     35 - RegisterUserServlet doGet() start
+2020-03-03 14:24 [DEBUG]       RegisterUserServletforwardToRegister     93 - forwardToRegister() called
+2020-03-03 14:24 [DEBUG]       RegisterUserServletdoGet     37 - RegisterUserServlet doGet() end
+2020-03-03 14:24 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:24 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:26 [DEBUG]       RegisterUserServletdoGet     42 - RegisterUserServlet doGet() start
+2020-03-03 14:26 [DEBUG]       RegisterUserServletforwardToRegister    100 - forwardToRegister() called
+2020-03-03 14:26 [DEBUG]       RegisterUserServletdoGet     44 - RegisterUserServlet doGet() end
+2020-03-03 14:26 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:26 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:28 [DEBUG]       RegisterUserServletdoPost     48 - RegisterUserServlet doPost() start
+2020-03-03 14:28 [DEBUG]       RegisterUserServletcreateUserDTO    147 - Created UserDTO
+2020-03-03 14:28 [DEBUG]       RegisterUserServletcheckCaptcha    115 - Captcha checked. Returning true
+2020-03-03 14:28 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:28 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:28 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:28 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 14:28 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 14:28 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 14:28 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 14:28 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 14:28 [DEBUG]       RegisterUserServletdoPost     72 - RegisterUserServlet doPost() end
+2020-03-03 14:29 [DEBUG]       RegisterUserServletdoGet     42 - RegisterUserServlet doGet() start
+2020-03-03 14:29 [DEBUG]       RegisterUserServletforwardToRegister    100 - forwardToRegister() called
+2020-03-03 14:29 [DEBUG]       RegisterUserServletdoGet     44 - RegisterUserServlet doGet() end
+2020-03-03 14:29 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:29 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:30 [DEBUG]       RegisterUserServletdoPost     48 - RegisterUserServlet doPost() start
+2020-03-03 14:30 [DEBUG]       RegisterUserServletcreateUserDTO    147 - Created UserDTO
+2020-03-03 14:30 [DEBUG]       RegisterUserServletcheckCaptcha    115 - Captcha checked. Returning true
+2020-03-03 14:30 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:30 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:30 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:30 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 14:30 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 14:30 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 14:30 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 14:30 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 14:30 [DEBUG]       RegisterUserServletdoPost     72 - RegisterUserServlet doPost() end
+2020-03-03 14:38 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 14:38 [DEBUG]       RegisterUserServletforwardToRegister    104 - forwardToRegister() called
+2020-03-03 14:38 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 14:38 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:38 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:38 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 14:38 [DEBUG]       RegisterUserServletcreateUserDTO    151 - Created UserDTO
+2020-03-03 14:38 [DEBUG]       RegisterUserServletcheckCaptcha    119 - Captcha checked. Returning true
+2020-03-03 14:38 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:38 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:38 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:38 [DEBUG]           UserServiceImplregisterUser     48 - returning false
+2020-03-03 14:38 [DEBUG]       RegisterUserServletsaveParameters    131 - saveParameters() called
+2020-03-03 14:38 [DEBUG]       RegisterUserServletforwardToRegister    104 - forwardToRegister() called
+2020-03-03 14:38 [DEBUG]       RegisterUserServletdoPost     76 - RegisterUserServlet doPost() end
+2020-03-03 14:38 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:38 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:39 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 14:39 [DEBUG]       RegisterUserServletcreateUserDTO    151 - Created UserDTO
+2020-03-03 14:39 [DEBUG]       RegisterUserServletcheckCaptcha    119 - Captcha checked. Returning true
+2020-03-03 14:39 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:39 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:39 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:39 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 14:39 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 14:39 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 14:39 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 14:39 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 14:39 [DEBUG]       RegisterUserServletdoPost     73 - Exception: The temporary upload location [C:\Users\Oleksandr_Storozhuk\git_task\pre_prod_java\pre_prod_java_q4q1_2019\java_tasks\WebShop\target\tomcat\work\Tomcat\localhost\_\profile_images] is not valid
+2020-03-03 14:39 [DEBUG]       RegisterUserServletdoPost     76 - RegisterUserServlet doPost() end
+2020-03-03 14:40 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 14:40 [DEBUG]       RegisterUserServletforwardToRegister    104 - forwardToRegister() called
+2020-03-03 14:40 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 14:40 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:40 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:40 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 14:40 [DEBUG]       RegisterUserServletcreateUserDTO    151 - Created UserDTO
+2020-03-03 14:40 [DEBUG]       RegisterUserServletcheckCaptcha    119 - Captcha checked. Returning true
+2020-03-03 14:40 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:40 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:40 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:40 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 14:40 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 14:40 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 14:40 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 14:40 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 14:40 [DEBUG]       RegisterUserServletdoPost     73 - Exception: org.apache.tomcat.util.http.fileupload.FileUploadBase$InvalidContentTypeException: the request doesn't contain a multipart/form-data or multipart/form-data stream, content type header is application/x-www-form-urlencoded
+2020-03-03 14:40 [DEBUG]       RegisterUserServletdoPost     76 - RegisterUserServlet doPost() end
+2020-03-03 14:42 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 14:42 [DEBUG]       RegisterUserServletforwardToRegister    104 - forwardToRegister() called
+2020-03-03 14:42 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 14:42 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:42 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:42 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 14:42 [DEBUG]       RegisterUserServletcreateUserDTO    151 - Created UserDTO
+2020-03-03 14:42 [DEBUG]       RegisterUserServletcheckCaptcha    119 - Captcha checked. Returning true
+2020-03-03 14:42 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:42 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:42 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:42 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 14:42 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 14:42 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 14:42 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 14:42 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 14:42 [DEBUG]       RegisterUserServletdoPost     76 - RegisterUserServlet doPost() end
+2020-03-03 14:47 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 14:47 [DEBUG]       RegisterUserServletforwardToRegister    115 - forwardToRegister() called
+2020-03-03 14:47 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 14:47 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:47 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:47 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 14:47 [DEBUG]       RegisterUserServletcreateUserDTO    162 - Created UserDTO
+2020-03-03 14:47 [DEBUG]       RegisterUserServletcheckCaptcha    130 - Captcha checked. Returning true
+2020-03-03 14:47 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:47 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:47 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:47 [DEBUG]           UserServiceImplregisterUser     48 - returning false
+2020-03-03 14:47 [DEBUG]       RegisterUserServletsaveParameters    142 - saveParameters() called
+2020-03-03 14:47 [DEBUG]       RegisterUserServletforwardToRegister    115 - forwardToRegister() called
+2020-03-03 14:47 [DEBUG]       RegisterUserServletdoPost     74 - RegisterUserServlet doPost() end
+2020-03-03 14:47 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:47 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:48 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 14:48 [DEBUG]       RegisterUserServletcreateUserDTO    162 - Created UserDTO
+2020-03-03 14:48 [DEBUG]       RegisterUserServletcheckCaptcha    130 - Captcha checked. Returning true
+2020-03-03 14:48 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:48 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:48 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:48 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 14:48 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 14:48 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 14:48 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 14:48 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 14:48 [DEBUG]       RegisterUserServletdoPost     74 - RegisterUserServlet doPost() end
+2020-03-03 14:48 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 14:48 [DEBUG]       RegisterUserServletforwardToRegister    115 - forwardToRegister() called
+2020-03-03 14:48 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 14:48 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 14:48 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 14:49 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 14:49 [DEBUG]       RegisterUserServletcreateUserDTO    162 - Created UserDTO
+2020-03-03 14:49 [DEBUG]       RegisterUserServletcheckCaptcha    130 - Captcha checked. Returning true
+2020-03-03 14:49 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 14:49 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 14:49 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 14:49 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 14:49 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 14:49 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 14:49 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 14:49 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 14:49 [DEBUG]       RegisterUserServletdoPost     74 - RegisterUserServlet doPost() end
+2020-03-03 15:08 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 15:08 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:08 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 15:08 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:08 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:08 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 15:08 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 15:08 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 15:08 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 15:08 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 15:08 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 15:08 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 15:08 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 15:08 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 15:08 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 15:08 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 15:08 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 15:10 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 15:10 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:10 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 15:10 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:10 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:10 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 15:10 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 15:10 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 15:10 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 15:10 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 15:10 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 15:10 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 15:10 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 15:10 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 15:10 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 15:10 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 15:10 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 15:11 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 15:11 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:11 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 15:11 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:11 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:11 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 15:11 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 15:11 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 15:11 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 15:11 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 15:11 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 15:11 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 15:11 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 15:11 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 15:11 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 15:11 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 15:11 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 15:12 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 15:12 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:12 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 15:12 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:12 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:12 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 15:12 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 15:12 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 15:12 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 15:12 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 15:12 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 15:12 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 15:12 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 15:12 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 15:12 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 15:12 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 15:12 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 15:34 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 15:34 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:34 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 15:34 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:34 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:34 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:34 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:35 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:35 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:36 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:36 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:39 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:39 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:40 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:40 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:41 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:41 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:41 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:41 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:43 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 15:43 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:43 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 15:43 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:43 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:43 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 15:43 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 15:43 [DEBUG]       RegisterUserServletvalidateUser    105 - User fields aren't valid
+2020-03-03 15:43 [DEBUG]       RegisterUserServletsaveErrors    139 - saveErrors() called
+2020-03-03 15:43 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 15:43 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:43 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:43 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:44 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 15:44 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 15:44 [DEBUG]       RegisterUserServletvalidateUser    105 - User fields aren't valid
+2020-03-03 15:44 [DEBUG]       RegisterUserServletsaveErrors    139 - saveErrors() called
+2020-03-03 15:44 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 15:44 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:44 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:44 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:45 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 15:45 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 15:45 [DEBUG]       RegisterUserServletvalidateUser    105 - User fields aren't valid
+2020-03-03 15:45 [DEBUG]       RegisterUserServletsaveErrors    139 - saveErrors() called
+2020-03-03 15:45 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 15:45 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:45 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:45 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:47 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 15:47 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 15:47 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 15:47 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 15:47 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 15:48 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 15:48 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 15:48 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 15:48 [DEBUG]           UserServiceImplregisterUser     37 - started
+2020-03-03 15:48 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     45 - started
+2020-03-03 15:48 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     50 - returing ResultSet
+2020-03-03 15:48 [DEBUG]                   UserDAOaddUser     55 - started
+2020-03-03 15:48 [DEBUG]                   UserDAOaddUser     63 - executing statement
+2020-03-03 15:48 [DEBUG]                   UserDAOaddUser     66 - commit done
+2020-03-03 15:48 [DEBUG]                   UserDAOaddUser     76 - method finished
+2020-03-03 15:48 [DEBUG]           UserServiceImplregisterUser     42 - added User. Returning true
+2020-03-03 15:48 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 15:48 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:48 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:49 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:49 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 15:49 [DEBUG]           UserServiceImplloginUser     21 - started
+2020-03-03 15:49 [DEBUG]           UserServiceImplloginUser     26 - User exists. Returning true
+2020-03-03 16:45 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 16:45 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 16:45 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 16:45 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 16:45 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 16:45 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 16:45 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 16:45 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 16:45 [DEBUG]           UserServiceImplregisterUser     43 - started
+2020-03-03 16:45 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     44 - started
+2020-03-03 16:45 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     51 - returing ResultSet
+2020-03-03 16:45 [DEBUG]           UserServiceImplregisterUser     52 - Operation not allowed after ResultSet closed
+2020-03-03 16:45 [DEBUG]           UserServiceImplregisterUser     56 - returning false
+2020-03-03 16:45 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 16:45 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 16:45 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 16:45 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 16:45 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:01 [DEBUG]           UserServiceImplloginUser     22 - started
+2020-03-03 17:01 [DEBUG]                   UserDAOgetUser     26 - Cannot determine value type from string 'dfg@gdf.com'
+2020-03-03 17:01 [DEBUG]           UserServiceImplloginUser     28 - User doesn't exist. Returning false
+2020-03-03 17:01 [DEBUG]       RegisterUserServletforwardToLogin     45 - called
+2020-03-03 17:02 [DEBUG]           UserServiceImplloginUser     22 - started
+2020-03-03 17:02 [DEBUG]                   UserDAOgetUser     26 - Cannot determine value type from string 'dfg@gdf.com'
+2020-03-03 17:02 [DEBUG]           UserServiceImplloginUser     28 - User doesn't exist. Returning false
+2020-03-03 17:02 [DEBUG]       RegisterUserServletforwardToLogin     45 - called
+2020-03-03 17:02 [DEBUG]           UserServiceImplloginUser     22 - started
+2020-03-03 17:02 [DEBUG]                   UserDAOgetUser     26 - Cannot determine value type from string 'dfg@gdf.com'
+2020-03-03 17:02 [DEBUG]           UserServiceImplloginUser     28 - User doesn't exist. Returning false
+2020-03-03 17:02 [DEBUG]       RegisterUserServletforwardToLogin     45 - called
+2020-03-03 17:04 [DEBUG]           UserServiceImplloginUser     22 - started
+2020-03-03 17:04 [DEBUG]                   UserDAOgetUser     26 - Cannot determine value type from string 'dfg@gdf.com'
+2020-03-03 17:04 [DEBUG]           UserServiceImplloginUser     28 - User doesn't exist. Returning false
+2020-03-03 17:04 [DEBUG]       RegisterUserServletforwardToLogin     45 - called
+2020-03-03 17:07 [DEBUG]           UserServiceImplloginUser     22 - started
+2020-03-03 17:07 [DEBUG]           UserServiceImplloginUser     25 - User exists. Returning true
+2020-03-03 17:07 [DEBUG]           UserServiceImplloginUser     22 - started
+2020-03-03 17:07 [DEBUG]           UserServiceImplloginUser     25 - User exists. Returning true
+2020-03-03 17:08 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:08 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:08 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:08 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:08 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:08 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:08 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:08 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:08 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:08 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:08 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:08 [DEBUG]                   UserDAOaddUser     73 - started
+2020-03-03 17:08 [DEBUG]                   UserDAOaddUser     82 - executing statement
+2020-03-03 17:08 [DEBUG]                   UserDAOaddUser     89 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?)' at line 1
+2020-03-03 17:08 [DEBUG]                   UserDAOaddUser     99 - method finished
+2020-03-03 17:08 [DEBUG]           UserServiceImplregisterUser     36 - added User. Returning true
+2020-03-03 17:08 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:25 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:25 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:25 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:25 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:25 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:25 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:25 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:25 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:25 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:25 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:25 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:25 [DEBUG]                   UserDAOaddUser     72 - started
+2020-03-03 17:25 [DEBUG]                   UserDAOaddUser     81 - executing statement
+2020-03-03 17:25 [DEBUG]                   UserDAOaddUser     88 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?)' at line 1
+2020-03-03 17:25 [DEBUG]                   UserDAOaddUser     98 - method finished
+2020-03-03 17:25 [DEBUG]           UserServiceImplregisterUser     36 - added User. Returning true
+2020-03-03 17:25 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:29 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:29 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:29 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:29 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:29 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:29 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:29 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:29 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:29 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:29 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:29 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:29 [DEBUG]           UserServiceImplregisterUser     35 - User values are unique
+2020-03-03 17:29 [DEBUG]                   UserDAOaddUser     72 - started
+2020-03-03 17:29 [DEBUG]                   UserDAOaddUser     81 - executing statement
+2020-03-03 17:29 [DEBUG]                   UserDAOaddUser     88 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?)' at line 1
+2020-03-03 17:29 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 17:29 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:29 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:29 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:29 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:30 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:30 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:30 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:30 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:30 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:31 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:31 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:31 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:31 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:31 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:31 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:31 [DEBUG]           UserServiceImplregisterUser     35 - User values are unique
+2020-03-03 17:31 [DEBUG]                   UserDAOaddUser     69 - started
+2020-03-03 17:31 [DEBUG]                   UserDAOaddUser     81 - executing statement with prepared statement: INSERT INTO users (user_login, user_password, user_fname, user_lname, user_email, user_receiveNews) VALUES (?, ?, ?, ?, ?, ?)
+2020-03-03 17:31 [DEBUG]                   UserDAOaddUser     88 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?, ?, ?, ?, ?, ?)' at line 1
+2020-03-03 17:31 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 17:31 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:31 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:31 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:31 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:33 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:33 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:33 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:33 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:33 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:33 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:33 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:33 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:33 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:33 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:33 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:33 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:33 [DEBUG]           UserServiceImplregisterUser     35 - User values are unique
+2020-03-03 17:33 [DEBUG]                   UserDAOaddUser     69 - started
+2020-03-03 17:33 [DEBUG]                   UserDAOaddUser     81 - executing statement with prepared statement: INSERT INTO users (user_login, user_password, user_fname, user_lname, user_email, user_receiveNews) VALUES (?,?,?,?,?,?)
+2020-03-03 17:33 [DEBUG]                   UserDAOaddUser     88 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?)' at line 1
+2020-03-03 17:33 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 17:33 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:33 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:33 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:33 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:35 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:35 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:35 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:35 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:35 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:35 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:35 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:35 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:35 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:35 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:35 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:35 [DEBUG]           UserServiceImplregisterUser     35 - User values are unique
+2020-03-03 17:35 [DEBUG]                   UserDAOaddUser     69 - started
+2020-03-03 17:35 [DEBUG]                   UserDAOaddUser     88 - Parameter index out of range (2 > number of parameters, which is 1).
+2020-03-03 17:35 [DEBUG]                   UserDAOaddUser     92 - Can''t call rollback when autocommit=true
+2020-03-03 17:35 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 17:35 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:35 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:35 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:35 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:37 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:37 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:37 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:37 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:37 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:37 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:37 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:37 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:37 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:37 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:37 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:37 [DEBUG]           UserServiceImplregisterUser     35 - User values are unique
+2020-03-03 17:37 [DEBUG]                   UserDAOaddUser     69 - started
+2020-03-03 17:37 [DEBUG]                   UserDAOaddUser     88 - Parameter index out of range (1 > number of parameters, which is 0).
+2020-03-03 17:37 [DEBUG]                   UserDAOaddUser     92 - Can''t call rollback when autocommit=true
+2020-03-03 17:37 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 17:37 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:37 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:37 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:37 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:37 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:37 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:37 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:37 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:37 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:37 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:37 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:37 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:37 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:37 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:37 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:37 [DEBUG]           UserServiceImplregisterUser     35 - User values are unique
+2020-03-03 17:37 [DEBUG]                   UserDAOaddUser     69 - started
+2020-03-03 17:37 [DEBUG]                   UserDAOaddUser     81 - executing statement with prepared statement: INSERT INTO users (user_login, user_password, user_fname, user_lname, user_email, user_receiveNews) VALUES (?,?,?,?,?,?)
+2020-03-03 17:37 [DEBUG]                   UserDAOaddUser     88 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?)' at line 1
+2020-03-03 17:37 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 17:37 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:37 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:37 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:37 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:39 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:39 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:39 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:39 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:39 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:39 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:39 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:39 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:39 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:39 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:39 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:39 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:39 [DEBUG]           UserServiceImplregisterUser     35 - User values are unique
+2020-03-03 17:39 [DEBUG]                   UserDAOaddUser     69 - started
+2020-03-03 17:39 [DEBUG]                   UserDAOaddUser     81 - executing statement with prepared statement: INSERT INTO users ('user_login', 'user_password', 'user_fname', 'user_lname', 'user_email', 'user_receiveNews') VALUES (?,?,?,?,?,?)
+2020-03-03 17:39 [DEBUG]                   UserDAOaddUser     88 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''user_login', 'user_password', 'user_fname', 'user_lname', 'user_email', 'user_r' at line 1
+2020-03-03 17:39 [DEBUG]       RegisterUserServletsaveParameters    143 - saveParameters() called
+2020-03-03 17:39 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:39 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:39 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:39 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:42 [DEBUG]       RegisterUserServletdoGet     43 - RegisterUserServlet doGet() start
+2020-03-03 17:42 [DEBUG]       RegisterUserServletforwardToRegister    116 - forwardToRegister() called
+2020-03-03 17:42 [DEBUG]       RegisterUserServletdoGet     45 - RegisterUserServlet doGet() end
+2020-03-03 17:42 [DEBUG]            CaptchaServletdoGet     26 - GetCaptchaServlet doGet() start
+2020-03-03 17:42 [DEBUG]            CaptchaServletdoGet     31 - GetCaptchaServlet doGet() end
+2020-03-03 17:42 [DEBUG]       RegisterUserServletdoPost     49 - RegisterUserServlet doPost() start
+2020-03-03 17:42 [DEBUG]       RegisterUserServletcreateUserDTO    163 - Created UserDTO
+2020-03-03 17:42 [DEBUG]       RegisterUserServletcheckCaptcha    131 - Captcha checked. Returning true
+2020-03-03 17:42 [DEBUG]           UserServiceImplregisterUser     33 - started
+2020-03-03 17:42 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     56 - started
+2020-03-03 17:42 [DEBUG]                   UserDAOcheckUserOnIndividualLogin     64 - returing ResultSet
+2020-03-03 17:42 [DEBUG]           UserServiceImplregisterUser     35 - User values are unique
+2020-03-03 17:42 [DEBUG]                   UserDAOaddUser     69 - started
+2020-03-03 17:42 [DEBUG]                   UserDAOaddUser     81 - executing statement with prepared statement: INSERT INTO users (user_login, user_password, user_fname, user_lname, user_email, user_receiveNews) VALUES (?,?,?,?,?,?)
+2020-03-03 17:42 [DEBUG]                   UserDAOaddUser     84 - commit done
+2020-03-03 17:42 [DEBUG]                   UserDAOaddUser    100 - method finished
+2020-03-03 17:42 [DEBUG]       RegisterUserServletdoPost     75 - RegisterUserServlet doPost() end
+2020-03-03 17:42 [DEBUG]           UserServiceImplloginUser     22 - started
+2020-03-03 17:42 [DEBUG]           UserServiceImplloginUser     25 - User exists. Returning true

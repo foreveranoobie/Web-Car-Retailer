@@ -1,0 +1,7 @@
+com\epam\storozhuk\captcha\strategy\CaptchaStrategiesContainer.class
+com\epam\storozhuk\captcha\strategy\CaptchaStrategy.class
+com\epam\storozhuk\captcha\cleaner\Cleaner.class
+com\epam\storozhuk\captcha\strategy\impl\FieldsCaptchaStrategyImpl.class
+com\epam\storozhuk\captcha\strategy\impl\CookieCaptchaStrategyImpl.class
+com\epam\storozhuk\captcha\strategy\impl\SessionCaptchaStrategyImpl.class
+com\epam\storozhuk\captcha\CaptchaDescriptor.class
